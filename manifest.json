@@ -1,0 +1,24 @@
+{
+  "name": "Cirota Admin — Kitchen & Ops",
+  "short_name": "Cirota Admin",
+  "description": "Operations and kitchen management portal for Cirota Tiffin Ranchi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2B1338",
+  "theme_color": "#4A1D6E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
